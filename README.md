@@ -1,0 +1,1 @@
+This is the repository for the Columbus Trails website.  All site code is contained in the gh-pages branch.  The Columbus Trails site can be found at [http://www.columbustrails.com](http://www.columbustrails.com).

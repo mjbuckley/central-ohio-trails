@@ -1,0 +1,10 @@
+<figure class="header-image">
+  <img src="{{ include.src }}"
+       srcset="{{ include.src }} 1000w,
+              {{ include.src | replace:'1000.jpg','1500.jpg 1500w' }},
+              {{ include.src | replace:'1000.jpg','2000.jpg 2000w' }}"
+       sizes="(max-width: 1000px) 100vw, 1000px"
+       {% if include.alt %}alt="{{ include.alt }}"{% endif %}
+  ><!-- end img -->
+  {% if include.caption %}<figcaption>{{ include.caption }}</figcaption>{% endif %}
+</figure>

@@ -2,8 +2,12 @@
  * Site header
  */
 .site-header {
-    border-top: 5px solid $grey-color-dark;
-    border-bottom: 1px solid $grey-color-light;
+    // border-top: 5px solid $grey-color-dark;
+    // border-bottom: 1px solid $grey-color-light;
+    // border-top: 1px solid $grey-color-dark;
+    border-bottom: 2px solid $grey-color-light;
+    background: white;
+
     min-height: 56px;
 
     // Positioning context for the mobile navigation icon
@@ -163,6 +167,8 @@
  */
 .page-content {
     padding: $spacing-unit 0;
+    max-width: 1060px;
+    margin: 0 auto;
 }
 
 .page-heading {
@@ -195,6 +201,10 @@
  */
 .post-header {
     margin-bottom: $spacing-unit;
+
+    h1 {
+      text-align: center;
+    }
 }
 
 .post-title {

@@ -1,0 +1,10 @@
+<figure class="body-image">
+  <img src="{{ include.src }}"
+       srcset="{{ include.src }} 700w,
+              {{ include.src | replace:'700.jpg','1050.jpg 1050w' }},
+              {{ include.src | replace:'700.jpg','1400.jpg 1400w' }}"
+       sizes="(max-width: 777px) 92vw, 700px"
+       {% if include.alt %}alt="{{ include.alt }}"{% endif %}
+  ><!-- end img -->
+  {% if include.caption %}<figcaption>{{ include.caption }}</figcaption>{% endif %}
+</figure>

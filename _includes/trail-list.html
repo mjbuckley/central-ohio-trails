@@ -1,0 +1,27 @@
+<table>
+  <thead>
+    <tr>
+      <th>Trail Name</th>
+      <th>Location</th>
+      <th class="table-x">Run</th>
+      <th class="table-x">Trail Run</th>
+      <th class="table-x">Bike</th>
+      <th class="table-x">MTB</th>
+    </tr>
+  </thead>
+  <tbody>
+  {% assign alphbatized_pages = (site.pages | sort: 'title') %}
+  {% for p in alphbatized_pages %}
+    {% if p.layout == 'trail' %}
+      <tr>
+        <td><a href="{{ p.url | prepend: site.baseurl }}">{{ p.title }}</a></td>
+        <td>{{ p.location }}</td>
+        <td class="table-x">{% if p.run %}X{%endif%}</td>
+        <td class="table-x">{% if p.trail_run %}X{%endif%}</td>
+        <td class="table-x">{% if p.bike %}X{%endif%}</td>
+        <td class="table-x">{% if p.mtb %}X{%endif%}</td>
+      </tr>
+    {% endif %}
+  {% endfor %}
+  </tbody>
+</table>

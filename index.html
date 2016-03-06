@@ -1,23 +1,22 @@
 ---
-layout: default
+layout: home
 ---
 
-<div class="home">
+<div class="home-wrapper1">
+  <div class="home-section1"></div>
+</div>
 
-  <h1 class="page-heading">Posts</h1>
+<div class="home-wrapper2">
+  <div class="home-section2">
+    <h1>Find great trails in Central Ohio</h1>
+    <p>The Columbus area has a surprising number of enjoyable trails.  On this site you find a curated collection of the best trails for running, cycling, trail running, and mountain biking in the metro area.  <a href="{{ site.baseurl | append: '/about/' }}">Learn more</a> about the site, or begin exploring the trail list below.</p>
+  </div>
+</div>
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
+<div class="home-wrapper3">
+  <div class="home-section3">
+    <h2>Trails</h2>
+    {% include trail-list.html %}
+    <p class="left-align"><em>*Be sure to read the <a href="{{ site.baseurl | append: '/trails/#disclaimer' }}">Trail Review Notes and Disclaimers.</a></em></p>
+  </div>
 </div>

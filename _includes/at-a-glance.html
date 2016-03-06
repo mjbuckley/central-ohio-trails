@@ -1,0 +1,16 @@
+<div class="essential-info-wrapper">
+  <section class="essential-info">
+    <h4>Essential Information</h4>
+    <ul>
+      <li>Mileage: {{ page.mileage }}</li>
+      <li>Activities:</li>
+      <ul>
+        {% if page.run %}<li>-Running</li>{% endif %}
+        {% if page.trail_run %}<li>-Trail Running</li>{% endif %}
+        {% if page.bike %}<li>-Biking</li>{% endif %}
+        {% if page.mtb %}<li>-Mountain Biking</li>{% endif %}
+      </ul>
+      <li>Location: {{ page.location }}.</li>
+    </ul>
+  </section>
+</div>

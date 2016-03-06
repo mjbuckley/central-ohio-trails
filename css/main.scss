@@ -6,32 +6,30 @@
 
 
 // Our variables
-$base-font-family: Lato, Helvetica, Arial, san-serif;
+$base-font-family: Lato, Helvetica, Arial, sans-serif;
 $base-font-size:   19px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.6;
 
-$spacing-unit:     30px;
+$spacing-unit:     36px;
 
 $text-color:       #1d1d1d;
-$background-color: #f7f7f7;
-$brand-color:      #2a7ae2;
-
+$background-color: #f9f9f9;
+$link-color:      #2a7ae2;
+// Add other link state colors here
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
+$header-font-color: #efefef;
 
 $on-palm:          600px;
 $on-laptop:        800px;
 
 
 
-// Using media queries with like this:
+// Use media queries like this:
 // @include media-query($palm) {
-//     .wrapper {
-//         padding-right: $spacing-unit / 2;
-//         padding-left: $spacing-unit / 2;
-//     }
+//  CSS GOES HERE
 // }
 @mixin media-query($device) {
     @media screen and (max-width: $device) {

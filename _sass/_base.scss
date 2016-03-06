@@ -1,3 +1,8 @@
+// Use this file to style basic, site-wide elements.  Styling that does not
+// genereally apply site wide should be done in the _layout.scss file.
+
+
+
 /**
  * Reset some basic elements
  */
@@ -13,6 +18,16 @@ dl, dd, ol, ul, figure {
 /**
  * Basic styling
  */
+
+// Apply border-box layout model to all elements, but allow components to change
+// if needed.  Source: http://www.paulirish.com/2012/box-sizing-border-box-ftw/
+html {
+ box-sizing: border-box;
+}
+*, *:before, *:after {
+ box-sizing: inherit;
+}
+
 body {
     font-family: $base-font-family;
     font-size: $base-font-size;
@@ -21,18 +36,22 @@ body {
     color: $text-color;
     background-color: $background-color;
     -webkit-text-size-adjust: 100%;
+
+    @include media-query($on-palm) {
+      line-height: $base-line-height - .2;
+    }
 }
 
 
 
 /**
- * Set `margin-bottom` to maintain vertical rhythm
+ * Set `margin-bottom` for a consistent approach to spacing.  This looks ok
+ * most of the time and works as a good default.  Override as needed.
  */
 h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
-ul, ol, dl, figure,
-%vertical-rhythm {
-    margin-bottom: $spacing-unit / 2;
+ul, ol, dl, figure {
+    margin-bottom: .9em;
 }
 
 
@@ -50,12 +69,20 @@ img {
 /**
  * Figures
  */
+figure {
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
+}
+
 figure > img {
     display: block;
 }
 
 figcaption {
     font-size: $small-font-size;
+    margin-top: .5em;
+    color: #999999;
+    text-align: center;
 }
 
 
@@ -89,16 +116,20 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-    color: $brand-color;
-    text-decoration: none;
 
+    &,
+    &:link,
     &:visited {
-        color: darken($brand-color, 15%);
+      color: $link-color;
+      text-decoration: none;
     }
 
     &:hover {
-        color: $text-color;
-        text-decoration: underline;
+        color: #f26525;
+    }
+
+    &:active {
+      color: darken(#f29825, 20%);
     }
 }
 
@@ -151,28 +182,6 @@ pre {
 
 
 /**
- * Wrapper
- */
-.wrapper {
-    max-width: -webkit-calc(1920px - (#{$spacing-unit} * 2));
-    max-width:         calc(1920px - (#{$spacing-unit} * 2));
-    margin-right: auto;
-    margin-left: auto;
-    padding-right: $spacing-unit;
-    padding-left: $spacing-unit;
-    @extend %clearfix;
-
-    @include media-query($on-laptop) {
-        max-width: -webkit-calc(800px - (#{$spacing-unit}));
-        max-width:         calc(800px - (#{$spacing-unit}));
-        padding-right: $spacing-unit / 2;
-        padding-left: $spacing-unit / 2;
-    }
-}
-
-
-
-/**
  * Clearfix
  */
 %clearfix {
@@ -201,4 +210,46 @@ pre {
             fill: $grey-color;
         }
     }
+}
+
+
+
+/**
+ * Tables
+ */
+table {
+  border-collapse: collapse;
+  width: 100%;
+  max-width: 100%;
+
+  // Tables overflow their container once the columns can't get any smaller.
+  // The media-query below helps avoid this problem in some cases.  However
+  // it doesn't look very good, so consider other display options for small
+  // screens
+  @include media-query($on-laptop) {
+    font-size: 14px;
+  }
+}
+
+td, th {
+  padding: 0.5em;
+  text-align: left;
+}
+
+/* Alternate colors on every other table row for readability */
+tbody tr:nth-child(odd) {
+  background: $grey-color-light;
+}
+
+thead>tr>th {
+  border-bottom-width: 2px;
+  border-bottom-color: black;
+  border-bottom-style: solid;
+}
+
+// Decide whether I still want this or not.
+tbody>tr>td {
+  border-bottom-width: 1px;
+  border-bottom-color: $grey-color-light;
+  border-bottom-style: solid;
 }

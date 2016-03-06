@@ -2,13 +2,13 @@
 title: Central Ohio Trails
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Find the best running trails, cycling trails, trail running trails,
+  and mountain biking trails in the Columbus, Ohio metro area.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://www.centralohiotrails.com" # the base hostname & protocol for your site
+twitter_username: ""
+github_username:  ""
+permalink: pretty
 
 # Build settings
 markdown: kramdown

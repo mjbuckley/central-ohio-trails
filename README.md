@@ -1,1 +1,1 @@
-This is the repository for the Columbus Trails website.  All site code is contained in the gh-pages branch.  The Columbus Trails site can be found at [http://www.columbustrails.com](http://www.columbustrails.com).
+This is the master branch for the Central Ohio Trails website.  However, no site code is contained on this branch.  All site code can be found on the gh-pages branch.  The Columbus Trails site itself can be found at [http://www.centralohiotrails.com](http://www.centralohiotrails.com).

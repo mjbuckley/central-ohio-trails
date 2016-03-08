@@ -22,6 +22,16 @@
     }
 }
 
+// A hacky way of making the table on the trails page not overflow on very
+// small screens.  Eventually make this nicer.
+.wrapper2 {
+  @extend .wrapper;
+  @include media-query(400px) {
+    padding-left: 5px;
+    padding-right: 5px;
+  }
+}
+
 
 
 /**
@@ -230,6 +240,12 @@
       padding-top: 50px;
       padding-bottom: 50px;
     }
+
+    // Below keeps table from overflowing on very small screens
+    @include media-query(400px) {
+      padding-left: 5px;
+      padding-right: 5px;
+    }
   }
 
   .left-align {
@@ -239,6 +255,10 @@
 
     @include media-query($on-laptop) {
       font-size: 14px;
+    }
+
+    @include media-query(400px) {
+      font-size: 13px;
     }
   }
 
@@ -381,6 +401,16 @@ Look for a better way to do what I want. */
      li {
        list-style-type: square;
        list-style-position: inside;
+     }
+
+     // On trail-list page the padding on the page wrapper shrinks on very
+     // small screens to allow the table to fit the screen.  But this makes the
+     // disclaimer section have a very small amount of padding.  This brings it
+     // back to the normal range.  A bit hacky, so consider something better in
+     // the long run.
+     @include media-query(400px) {
+         padding-left: 13px;
+         padding-right: 13px;
      }
    }
 

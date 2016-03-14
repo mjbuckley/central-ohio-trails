@@ -1,7 +1,7 @@
 ---
 layout: trail
 title: Highbanks Metro Park
-location: Southern Deleware County
+location: S Deleware County
 run: no
 trail_run: yes
 bike: no

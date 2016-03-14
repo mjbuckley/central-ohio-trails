@@ -1,7 +1,7 @@
 ---
 layout: trail
 title: Prairie Oaks Metro Park
-location: Eastern Union County
+location: W Franklin County
 Activities: Trail running
 run: no
 trail_run: yes

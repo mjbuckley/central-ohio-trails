@@ -1,7 +1,7 @@
 ---
 layout: trail
 title: Battelle Darby Creek Metro Park
-location: West Side
+location: SW Franklin County
 run: yes
 trail_run: yes
 bike: yes

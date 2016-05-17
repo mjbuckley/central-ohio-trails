@@ -9,7 +9,7 @@ mtb: no
 mileage: 17 miles
 ---
 
-{% include header-image.html src="/assets/battelle-darby-creek1-1000.jpg" alt="The Darby Creek Grenway Trail at Battelle Darby Creek Metro Park" caption="The Darby Creek Grenway Trail" %}
+{% include header-image.html src="/assets/battelle-darby-creek1-1000.jpg" alt="The Darby Creek Greenway Trail at Battelle Darby Creek Metro Park" caption="The Darby Creek Greenway Trail" %}
 
 {% include at-a-glance.html %}
 

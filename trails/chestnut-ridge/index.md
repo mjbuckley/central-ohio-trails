@@ -19,7 +19,7 @@ Although the challenges are similar, the character of the two sections is quite 
 
 {% include body-image.html src="/assets/chestnut-ridge2-700.jpg" alt="Singletrack mountain bike trail through dense vegetation at Chestnut Ridge Metro Park" caption="Densely wooded singletrack is typical of the easy portion of the trail." %}
 
-The trail here see far fewer riders than Alum Creek, the other mountain bike trail in the area.  The trail also handles wet weather much better than Alum.  For both of these reasons, this is my favorite place to mountain bike in Central Ohio.  That said, it can still get muddy, so be sure to check trail conditions before heading out.
+The trail here sees far fewer riders than Alum Creek, the other mountain bike trail in the area.  The trail also handles wet weather much better than Alum.  For both of these reasons, this is my favorite place to mountain bike in Central Ohio.  That said, it can still get muddy, so be sure to check trail conditions before heading out.
 
 ### Additional Information:
 

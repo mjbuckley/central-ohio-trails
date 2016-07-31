@@ -13,7 +13,7 @@ mileage: 14 miles
 
 {% include at-a-glance.html %}
 
-If there is one trail that displays the full range of Columbus scenery and terrain, it's the the Olentangy Trail.  Spanning over half the distance of Franklin County, this paved trail follows route 315 and the Olentangy River as it travels from downtown, past Ohio State, all the way up to southern edge of Deleware County.
+If there is one trail that displays the full range of Columbus scenery and terrain, it's the the Olentangy Trail.  Spanning over half the distance of Franklin County, this paved trail follows Route 315 and the Olentangy River as it travels from downtown, past Ohio State, all the way up to southern edge of Deleware County.
 
 Although it is one continuous trail, the northern and southern sections have very distinct feels.  The northern section is quieter and suburban, going through the edges of Worthington and Clintonville.  It's not remote, but sections can feel removed from the city.  I occasionally see deer on this section of trail.  The southern section of the trail is more urban, traveling along the edge of Ohio State, Harrison West, and Downtown.  It's only a short hop off the trail to access campus or the shops of the Short North.  The trail here always feels close to the city, with many portions traveling close to 315 and other major roads.
 

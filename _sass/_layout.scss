@@ -448,185 +448,80 @@ Look for a better way to do what I want. */
        margin-top: 18px;
      }
 
-     li {
-       list-style-type: square;
-       list-style-position: inside;
-       font-size: 16px;
-       margin-left: 0;
-       padding-left: 0;
 
-       @include media-query($on-palm) {
-         display: block;
-         font-size: 14px;
-       }
-     }
 
-     ul {
-       margin-left: 0;
-       padding-left: 0;
-       margin-bottom: 18px;
-     }
 
-     ul ul {
-      //  margin-left: 0;
-       padding-left: 17px;
-       margin-bottom: 0;
+   //   ul {
+   //     margin-left: 0;
+   //     // padding-left: 16px;
+   //     margin-bottom: 18px;
+   //     // text-align: left;
+   //   }
+   //
+   //   li {
+   //     list-style-type: square;
+   //     list-style-position: inside;
+   //     font-size: 16px;
+   //     // margin-left: 0;
+   //     // padding-left: 0;
+   //     // text-align: left;
+   //
+   //     @include media-query($on-palm) {
+   //       display: block;
+   //       font-size: 14px;
+   //     }
+   //   }
+   //
+   //
+   //
+   //   ul ul {
+   //     // margin-left: 2em;
+   //     // padding-left: 0;
+   //     // margin-bottom: 0;
+   //
+   //     li {
+   //       list-style-type: circle;
+   //       list-style-position: outside;
+   //       // margin-left: 0;
+   //       // padding-left: 0;
+   //     }
+   //   }
+   // }
 
-       li {
-         list-style-type: none;
-       }
+
+   ul {
+     margin-left: 0;
+     padding-left: 0;
+     margin-bottom: 18px;
+   }
+  .light {
+    font-weight: 300;
+  }
+   li {
+     list-style-type: none;
+     list-style-position: outside;
+     font-size: 17px;
+     // font-weight: 300;
+     margin-left: 0;
+     padding-left: 0;
+     text-align: left;
+
+     @include media-query($on-palm) {
+       // display: block;
+       font-size: 15px;
      }
    }
 
+   ul ul {
+     margin-left: 36px;
+     padding-left: 0;
+     margin-bottom: 0;
 
-
-
-
-
- // /**
- //  * Site footer:
- //  * Footer styling for the default Jekyll theme.  Currently not using this, but
- //  * am leaving around as a reference in case I add a footer in the future.
- //  */
- // .site-footer {
- //     border-top: 1px solid $grey-color-light;
- //     padding: $spacing-unit 0;
- // }
- //
- // .footer-heading {
- //     font-size: 18px;
- //     margin-bottom: $spacing-unit / 2;
- // }
- //
- // .contact-list,
- // .social-media-list {
- //     list-style: none;
- //     margin-left: 0;
- // }
- //
- // .footer-col-wrapper {
- //     font-size: 15px;
- //     color: $grey-color;
- //     margin-left: -$spacing-unit / 2;
- //     @extend %clearfix;
- // }
- //
- // .footer-col {
- //     float: left;
- //     margin-bottom: $spacing-unit / 2;
- //     padding-left: $spacing-unit / 2;
- // }
- //
- // .footer-col-1 {
- //     width: -webkit-calc(35% - (#{$spacing-unit} / 2));
- //     width:         calc(35% - (#{$spacing-unit} / 2));
- // }
- //
- // .footer-col-2 {
- //     width: -webkit-calc(20% - (#{$spacing-unit} / 2));
- //     width:         calc(20% - (#{$spacing-unit} / 2));
- // }
- //
- // .footer-col-3 {
- //     width: -webkit-calc(45% - (#{$spacing-unit} / 2));
- //     width:         calc(45% - (#{$spacing-unit} / 2));
- // }
- //
- // @include media-query($on-laptop) {
- //     .footer-col-1,
- //     .footer-col-2 {
- //         width: -webkit-calc(50% - (#{$spacing-unit} / 2));
- //         width:         calc(50% - (#{$spacing-unit} / 2));
- //     }
- //
- //     .footer-col-3 {
- //         width: -webkit-calc(100% - (#{$spacing-unit} / 2));
- //         width:         calc(100% - (#{$spacing-unit} / 2));
- //     }
- // }
- //
- // @include media-query($on-palm) {
- //     .footer-col {
- //         float: none;
- //         width: -webkit-calc(100% - (#{$spacing-unit} / 2));
- //         width:         calc(100% - (#{$spacing-unit} / 2));
- //     }
- // }
-
-
-
- // /**
- //  * Unused styling:
- //  * Keep around temporarily in case I change my mind about some of this.
- //  */
- //
- // /* Test home page styling */
-
- // .test-wrap {
- //   // background: pink;
- //
- //   @extend %clearfix;
- //   margin-top: 75px;
- //   box-sizing: border-box;
- // }
- //
- // .photo {
- //   width: 40%;
- //   float: left;
- //   box-sizing: border-box;
- // }
- //
- // .text {
- //   width: 60%;
- //   float: left;
- //   padding-top: 70px;
- //   padding-left: 40px;
- //   box-sizing: border-box;
- //
- //   p {
- //     color: #5a5a5a;
- //   }
- // }
-
-
- // /* Fake Button */
-
- // .text p a {
- //   padding: 1em 2em;
- //   font-size: 16px;
- //   text-transform: uppercase;
- //   text-decoration: none;
- //   line-height: 3.5;
- //   color: black;
- //   background: #989aa6;
- //   border-radius: 3px;
- //   &:hover {
- //   border: 1px solid black;
- //   color: white;
- //   }
- //   &:focus,
- //   &:active {
- //   border: 2px solid black;
- //   opacity: 0.5;
- //   }
- // }
- //
- // .second-section {
- //   max-width: 700px;
- //   margin-left: auto;
- //   margin-right: auto;
- //   text-align: center;
- //   margin-top: 65px;
- // }
-
- // Where should this go?
-  // .page-content-temp {
-  //   max-width: 1280px;
-  //   margin-left: auto;
-  //   margin-right: auto;
-  // }
-
-  // .no-margin {
-  //   margin: 0 auto;
-  //   max-width: 1000px;
-  // }
+     li {
+       list-style-type: square;
+       list-style-position: outside;
+       margin-left: 0;
+       padding-left: 0;
+     }
+   }
+ }

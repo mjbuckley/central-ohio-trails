@@ -2,15 +2,15 @@
   <section class="essential-info">
     <h4>Essential Information</h4>
     <ul>
-      <li>Mileage: {{ page.mileage }}</li>
+      <li>Mileage: <span class="light">{{ page.mileage }}</span></li>
       <li>Activities:</li>
       <ul>
-        {% if page.run %}<li>-Running</li>{% endif %}
-        {% if page.trail_run %}<li>-Trail Running</li>{% endif %}
-        {% if page.bike %}<li>-Biking</li>{% endif %}
-        {% if page.mtb %}<li>-Mountain Biking</li>{% endif %}
+        {% if page.run %}<li><span class="light">Running</span></li>{% endif %}
+        {% if page.trail_run %}<li><span class="light">Trail Running</span></li>{% endif %}
+        {% if page.bike %}<li><span class="light">Biking</span></li>{% endif %}
+        {% if page.mtb %}<li><span class="light">Mountain Biking</span></li>{% endif %}
       </ul>
-      <li>Location: {{ page.location }}.</li>
+      <li>Location: <span class="light">{{ page.location }}</span></li>
     </ul>
   </section>
 </div>

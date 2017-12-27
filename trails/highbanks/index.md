@@ -21,7 +21,9 @@ If you don't have time for everything, an approximately 5 mile loop that combine
 
 The other trail in the park, the Coyote Run trail, is a flat dirt and grass trail that goes through a meadow.  This trail doesn't handle rain as well as the other sections, and it can be muddy when the others are dry.  One highlight is an Adena mound that is clearly visible from the trail.  If you are already at the park, this trail is a nice way to get in about 3 additional miles, but the other loop is much more distinctive and challenging.
 
-### Additional Information:
+---
+
+### Additional Information
 
 * View the [Highbanks trail map](http://www.metroparks.net/parks-and-trails/highbanks/park-map/) on the Metro Park's website.
 * View the trail's location on [Google Maps](https://goo.gl/maps/K5u3V7kbsKE2).

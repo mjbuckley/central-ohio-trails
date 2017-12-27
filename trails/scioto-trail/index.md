@@ -23,7 +23,9 @@ One confusing section occurs near downtown by Long Street and 315.  Here, the [O
 
 Much of the northern section exists in a strange no mans land, with the the trail traveling by an old quarry, alongside highway exit ramps, and routed atop a series of tall, narrow, man-made islands in the Scioto River.  It's not exactly scenic, but it is interesting.  This section also has a large access bridge over the Scioto River that connects the trail to McKinley Ave. and the Hilltop area.  Currently, the trail doesn't continue on the other side, but it will eventually lead all the way to Batelle Darby Creek Metro Park.  However, this is likely still many years away.
 
-### Additional Information:
+---
+
+### Additional Information
 * View the [Scioto Trail map](https://www.columbus.gov/recreationandparks/trails/Scioto-Trail/) on the Columbus Parks and Rec website.
 * Get more information about the [Scioto Mile](http://www.sciotomile.com/).
 * Visit the [Scioto Audubon Metro Park's](http://www.metroparks.net/parks-and-trails/scioto-audubon/) website.

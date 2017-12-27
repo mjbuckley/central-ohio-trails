@@ -24,6 +24,8 @@ Near the intersection of the Greenway Trail and the Big Darby Creek is the entra
 
 The Coneflower Trail can be accessed from three different points along the Greenway Trail.  It is mostly flat and grassy, and it travels through fields and a few wooded sections.  It can feel a bit like a maze at times because the park's bridle trail is constantly crossing and occasionally sharing the trail.  However, as long as you pay attention to the trail markings (follow the ones with the hiker symbol and avoid the ones with a horse), then it is actually quite easy to find your way.  Because the trail is flat and in a low lying areas, it doesn't drain very well and should be avoided when wet.
 
-### Additional Information:
+---
+
+### Additional Information
 * View the [Prairie Oaks trail map](http://www.metroparks.net/parks-and-trails/prairie-oaks/) on the Metro Park's website.
 * View the park's location on [Google Maps](https://goo.gl/maps/8EGLb5HA2WR2).

@@ -27,7 +27,9 @@ The Teal, Harrier, and Railway trails have different names, but they are really 
 
 There are two groupings of trails in the park's southern section that provide the most challenging and rugged trails.  These trails are best accessed from the Alkire Rd. parking lot rather than the main parking lot.  One 2 mile grouping consists of the Indian Ridge, Cobshell, Hawthorn trails.  On the trail it's not entirely obvious where one begins and the other ends, but as they are all short sections it's hard to get lost for too long.  These trails are the hilliest and must challenging in the park. The trails are narrow, wooded, and frequently steep.  The second grouping consists of the Ancient and Terrace trails.  They are two connected trails that can be combined to form a nice 4 mile loop.  These trails are similar to, but slightly less challenging than, the Indian Ridge, Cobshell, and Hawthorn trails.  Portions of both trail groupings go alongside the Big Darby Creek.
 
-### Additional Information:
+---
+
+### Additional Information
 * View the [Darby Creek trail map](http://www.metroparks.net/parks-and-trails/battelle-darby-creek/park-map/) on the Metro Park's website.
 * View the park's location on [Google Maps](https://goo.gl/maps/f5xv7QV2LrR2).
 * The Darby Creek Greenway Trail is the only trail in the park open to cyclists.  However, the 12 mile Camp Chase Trail travels through the park and is open to bikes.  It can be accessed from the Alkire Rd. parking lot.  I have not yet used this trail, but I will ride it and add info soon.

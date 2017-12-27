@@ -25,6 +25,8 @@ There are two mildly confusing aspects to the trail.  First, many small unmarked
 
 There are several off pavement options on the northern section.  A one mile dirt trail branches off from the paved trail and travels around Antrim Lake.  The surface is pleasant for running, and the trail offers great views of the lake.  This section is closed to bikes.  There are also several unofficial dirt trails that occasionally run alongside the paved trail in the northern section.  These trails don't offer a true trail running experience, but it's possible to spend a decent amount of time off pavement by linking together these sections and by using the Antrim Lake trail.
 
-### Additional Information:
+---
+
+### Additional Information
 * The far northern end of the trail past Wilson Rd. Bridge is currently undergoing construction, and it is not possible to reach the northern terminus of the trail.
 * View the [Olentangy Trail map](https://www.columbus.gov/recreationandparks/trails/Olentangy-Trail/) on the Columbus Parks and Rec website.

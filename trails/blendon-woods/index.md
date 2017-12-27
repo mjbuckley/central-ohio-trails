@@ -23,7 +23,8 @@ The Goldenrod Trail is a flat and wide grass trail that goes through fields and 
 
 Even on the most challenging sections, the trails at Blendon Woods are relatively easy.  But the scenery is pleasant, and 5 miles of off-road trail close to the city is always a nice treat.  Don't travel a long distances to run here, but it's definitely worth trying if you are in the area.
 
+---
 
-### Additional Information:
+### Additional Information
 * View the [Blendon Woods trail map](http://www.metroparks.net/parks-and-trails/blendon-woods/park-map/) on the Metro Park's website.
 * View the park's location on [Google Maps](https://goo.gl/maps/hZ8dM3C7acJ2).

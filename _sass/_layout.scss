@@ -304,7 +304,7 @@
         font-size: 26px;
 
         @include media-query($on-laptop) {
-            font-size: 22px;
+            font-size: 24px;
         }
     }
 
@@ -319,7 +319,15 @@
     li {
       list-style-type: square;
       list-style-position: inside;
+      font-weight: 300;
+      font-size: 18px;
     }
+}
+
+// move elsewhere
+hr {
+  margin-top: 23px;
+  margin-bottom: 18px;
 }
 
 

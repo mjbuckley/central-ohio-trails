@@ -25,8 +25,9 @@ In addition to being enjoyable on its own, the Heritage Rail Trail serves as a g
 
 {% include body-image.html src="/assets/heritage-trail3-700.jpg" alt="A gate at the end of the Heritage Rail Trail." caption="The Heritage Rail Trail ends here, but hours of great road cycling await on the other side." %}
 
+---
 
-### Additional Information:
+### Additional Information
 
 * View the [Heritage Rail Trail map](http://www.heritagerailtrail.org/mapdirections.html) on the Heritage Rail Trail's website.
 * [Find additional info](http://www.metroparks.net/parks-and-trails/homestead/) about Homestead Park on the Metro Park's website.

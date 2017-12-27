@@ -21,7 +21,9 @@ Although the challenges are similar, the character of the two sections is quite 
 
 The trail here sees far fewer riders than Alum Creek, the other mountain bike trail in the area.  The trail also handles wet weather much better than Alum.  For both of these reasons, this is my favorite place to mountain bike in Central Ohio.  That said, it can still get muddy, so be sure to check trail conditions before heading out.
 
-### Additional Information:
+---
+
+### Additional Information
 
 * View the [current trail conditions](http://ohiosingletrack.com/trailcondition.php?tabid=50).
 * View the [Chestnut Ridge trail map](http://www.metroparks.net/parks-and-trails/chestnut-ridge/park-map/) on the Metro Park's website.

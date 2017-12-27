@@ -24,7 +24,9 @@ The park does not handle heavy rains well.  The road through the frisbee golf co
 
 Don't make a long journey to run here.  The park is a great local gem, but it's not worth traveling long distances for.  But if you live nearby, it's a nice place to run.
 
-### Additional Information:
+---
+
+### Additional Information
 * The park road will be undergoing repairs in summer 2016.  Sections of the road could be closed.
 * Parking is available throughout the entire length of the park.  However, the road north of the Fishinger Road bridge is one-way (to the north).  Runners can go both ways, but keep this is mind when deciding where to park.
 * View [the park's website](https://www.columbus.gov/recreationandparks/parks/Griggs-Reservoir-Park/).

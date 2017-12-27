@@ -26,6 +26,8 @@ Follow the Overlook Trail back north until it hits the REI River Trail.  Althoug
 
 The short Hickory Trail begins where the REI River Trail ends.  This trail goes through prairie, and it has a very pleasant crushed stone surface that is similar to the Arrowhead Trail.  The Overlook Trail and the Arrowhead Trail break away from the Hickory Trail and lead back to the Arrowhead Picnic Area where the loop started.  Unlike the southern section of the park where these two trails were clearly distinct, here they constantly criss cross one another and can be hard to distinguish.  Thankfully, they both go in the same direction, so you won't get lost.  Just continue heading south and you will hit the Arrowhead Picnic Area and finish the loop.
 
-### Additional Information:
+---
+
+### Additional Information
 * View the [Scioto Grove trail map](http://www.metroparks.net/parks-and-trails/scioto-grove/park-map/) on the Metro Park's website.
 * View the park's location on [Google Maps](https://goo.gl/maps/it5ft5NrkN22).

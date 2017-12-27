@@ -19,9 +19,11 @@ Unlike most of the other metro parks, Blacklick Woods is very closely surrounded
 
 There are four additional interconnecting trails in the park: Buttonbush, Maple Loop, Beech, and Walter A. Tucker.  These trails are all very short, and they are best thought of as one 2 mile loop.  The trails are hard packed double-track, with the occasional short paved section, and they traverse through woods and wooded swamp.  One distinctive feature is that the trail is slightly elevated on wooded boardwalks throughout the swampy section.  The various trail intersections and spurs look confusing on the park map, but there are trail maps posted at almost every intersection, so it is easy to find your way.  While never feeling truly wild, these trails are definitely more scenic and secluded than the Multipurpose trail.
 
-By combining the four smaller trails and the Multipurpose trail, there is enough here for a decent trail run.  It's not a destination park, and those looking for a true wilderness experience will be disappointed, but it's still worth trying if you are in the area.  
+By combining the four smaller trails and the Multipurpose trail, there is enough here for a decent trail run.  It's not a destination park, and those looking for a true wilderness experience will be disappointed, but it's still worth trying if you are in the area.
 
-### Additional Information:
+---
+
+### Additional Information
 
 * View the [Blacklick Woods trail map](http://www.metroparks.net/parks-and-trails/blacklick-woods/park-map/) on the Metro Park's website.
 * View the trail's location on [Google Maps](https://goo.gl/maps/YJ9p8EvU9sM2).

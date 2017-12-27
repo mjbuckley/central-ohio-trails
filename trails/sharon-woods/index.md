@@ -23,7 +23,9 @@ The trails are well marked, and there are many maps and markers placed along the
 
 The 3.8 mile Multipurpose Trail is a paved trail open to runners and cyclists, but it's too short to be worth traveling here just to bike.  The trail goes through a mix of woods and meadows, and it contains a few small hills.  There is a somewhat uncommon setup on the trail.  Cyclists must ride counterclockwise on the right side of the trail, and walkers and runners can go in either direction but must stay on the left side.  The trail is well marked to remind users of this, but since this is relatively uncommon it seems worth mentioning.  There are water fountains on the trail.  There are no real exits on the trail.  Once you start the loop you either need to complete it or turn back.
 
-### Additional Information:
+---
+
+### Additional Information
 
 * View the [Sharon Woods trail map](http://www.metroparks.net/parks-and-trails/sharon-woods/park-map/) on the Metro Park's website.
 * View the park's location on [Google Maps](https://goo.gl/maps/sqgcQRto9US2).

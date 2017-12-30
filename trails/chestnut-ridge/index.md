@@ -25,7 +25,7 @@ The trail here sees far fewer riders than Alum Creek, the other mountain bike tr
 
 ### Additional Information
 
-* View the [current trail conditions](http://ohiosingletrack.com/trailcondition.php?tabid=50).
+* View the [current trail conditions](http://www.combomtb.com/trail-conditions/).
 * View the [Chestnut Ridge trail map](http://www.metroparks.net/parks-and-trails/chestnut-ridge/park-map/) on the Metro Park's website.
 * The trail was built and is maintained by volunteers from the [Central Ohio Mountain Bike Organization](http://www.combomtb.com/).
 * This trail is only open to mountain biking.  Hiking and running are prohibited.

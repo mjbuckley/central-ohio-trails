@@ -205,8 +205,6 @@
     max-width: 750px + ($spacing-unit * 2);
     margin-right: auto;
     margin-left: auto;
-    // padding-top: 65px;
-    // padding-bottom: 65px;
     padding: 65px $spacing-unit 65px $spacing-unit;
     text-align: center;
     background-color: white;
@@ -322,13 +320,13 @@
       font-weight: 300;
       font-size: 18px;
     }
+
+    hr {
+      margin-top: 23px;
+      margin-bottom: 18px;
+    }
 }
 
-// move elsewhere
-hr {
-  margin-top: 23px;
-  margin-bottom: 18px;
-}
 
 
 /* code below makes everthing inside .post-content 700px except for
@@ -435,81 +433,37 @@ Look for a better way to do what I want. */
     }
   }
 
-   .essential-info {
-     width: 250px;
-     border-top: 2px solid black;
-     border-bottom: 2px solid black;
+ .essential-info {
+   width: 250px;
+   border-top: 2px solid black;
+   border-bottom: 2px solid black;
+   margin-right: 45px;
+   margin-bottom: 40px;
+   margin-top: 4px;
+
+   @include media-query($on-palm) {
+     width: 100%;
+     border-top: 1px solid black;
+     border-bottom: 1px solid black;
      margin-right: 45px;
      margin-bottom: 40px;
      margin-top: 4px;
+   }
 
-     @include media-query($on-palm) {
-       width: 100%;
-       border-top: 1px solid black;
-       border-bottom: 1px solid black;
-       margin-right: 45px;
-       margin-bottom: 40px;
-       margin-top: 4px;
-     }
-
-     h4 {
-       margin-top: 18px;
-     }
-
-
-
-
-   //   ul {
-   //     margin-left: 0;
-   //     // padding-left: 16px;
-   //     margin-bottom: 18px;
-   //     // text-align: left;
-   //   }
-   //
-   //   li {
-   //     list-style-type: square;
-   //     list-style-position: inside;
-   //     font-size: 16px;
-   //     // margin-left: 0;
-   //     // padding-left: 0;
-   //     // text-align: left;
-   //
-   //     @include media-query($on-palm) {
-   //       display: block;
-   //       font-size: 14px;
-   //     }
-   //   }
-   //
-   //
-   //
-   //   ul ul {
-   //     // margin-left: 2em;
-   //     // padding-left: 0;
-   //     // margin-bottom: 0;
-   //
-   //     li {
-   //       list-style-type: circle;
-   //       list-style-position: outside;
-   //       // margin-left: 0;
-   //       // padding-left: 0;
-   //     }
-   //   }
-   // }
-
+   h4 {
+     margin-top: 18px;
+   }
 
    ul {
      margin-left: 0;
      padding-left: 0;
      margin-bottom: 18px;
    }
-  .light {
-    font-weight: 300;
-  }
+
    li {
      list-style-type: none;
      list-style-position: outside;
      font-size: 17px;
-     // font-weight: 300;
      margin-left: 0;
      padding-left: 0;
      text-align: left;
@@ -531,5 +485,9 @@ Look for a better way to do what I want. */
        margin-left: 0;
        padding-left: 0;
      }
+   }
+
+   .light {
+     font-weight: 300;
    }
  }

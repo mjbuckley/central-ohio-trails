@@ -28,5 +28,4 @@ There are several off pavement options on the northern section.  A one mile dirt
 ---
 
 ### Additional Information
-* The far northern end of the trail past Wilson Rd. Bridge is currently undergoing construction, and it is not possible to reach the northern terminus of the trail.
 * View the [Olentangy Trail map](https://www.columbus.gov/recreationandparks/trails/Olentangy-Trail/) on the Columbus Parks and Rec website.

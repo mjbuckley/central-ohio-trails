@@ -21,7 +21,7 @@ One confusing section occurs near downtown by Long Street and 315.  Here, the [O
 
 {% include body-image.html src="/assets/scioto-trail2-700.jpg" alt="A section of the Scioto Trail perched atop a tall, narrow island in Scioto River (river not visible)." caption="It may look flat, but the trail here is perched atop a tall, narrow island in the Scioto River." %}
 
-Much of the northern section exists in a strange no mans land, with the the trail traveling by an old quarry, alongside highway exit ramps, and routed atop a series of tall, narrow, man-made islands in the Scioto River.  It's not exactly scenic, but it is interesting.  This section also has a large access bridge over the Scioto River that connects the trail to McKinley Ave. and the Hilltop area.  Currently, the trail doesn't continue on the other side, but it will eventually lead all the way to Batelle Darby Creek Metro Park.  However, this is likely still many years away.
+Much of the northern section exists in a strange no mans land, with the the trail traveling by an old quarry, alongside highway exit ramps, and routed atop a series of tall, narrow, man-made islands in the Scioto River.  It's not exactly scenic, but it is interesting.  This section also has a large access bridge over the Scioto River that connects the trail to McKinley Ave. and the Hilltop area.  From the other side of this bridge it is only around 1/2 mile to the start of the Camp Chase Trail (trail review coming soon), which continues all the way to [Battelle Darby Creek Metro Park]({{site.baseurl | append: '/trails/battelle-darby-creek/' }}) and beyond.
 
 ---
 

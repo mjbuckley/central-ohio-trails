@@ -25,6 +25,8 @@ In addition to being enjoyable on its own, the Heritage Rail Trail serves as a g
 
 {% include body-image.html src="/assets/heritage-trail3-700.jpg" alt="A gate at the end of the Heritage Rail Trail." caption="The Heritage Rail Trail ends here, but hours of great road cycling await on the other side." %}
 
+It is worth noting that there is an additional 5 miles of trail that is accessible from the Hertiage Trail. Different sources and signs give this trail different names, including Hellbranch, Vaniard, and Mudsock. I don't have a stand alone page for this trail because although it is fully rideable, it still feels a bit incomplete. There are few trail markings, and it can be very difficult to follow as the trail frequently intersects with other neighborhood and park trails, paths, and sidewalks. I had to stop numerous times to find my way. That said, if you don't mind needing to make an effort to navigate, the trail itself has some nice sections and is worth trying. It is mostly paved, but about 1.5 miles near the end is packed dirt and crushed stone. This is the most scenic section of the trail. To find the trail, look for the Vaniard Trail sign at mile marker number 1 on the Heritage Trail.
+
 ---
 
 ### Additional Information
@@ -32,3 +34,4 @@ In addition to being enjoyable on its own, the Heritage Rail Trail serves as a g
 * View the [Heritage Rail Trail map](http://www.heritagerailtrail.org/mapdirections.html) on the Heritage Rail Trail's website.
 * [Find additional info](http://www.metroparks.net/parks-and-trails/homestead/) about Homestead Park on the Metro Park's website.
 * View the trail location on [Google Maps](https://goo.gl/maps/L6pfbP9qVsp).
+* I haven't found a stand alone map for the Vaniard/Hellbranch/Mudsock trail, but by going to the Central Ohio Greenways' [online interactive map](http://centralohiogreenways.com/interactive-map/) and clicking on the Hellbranch option you can get a useable map. Be sure to carry a phone with this site loaded in order to find your way, or else you will likely get lost.

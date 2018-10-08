@@ -13,15 +13,18 @@ mileage: 12 miles
 
 {% include at-a-glance.html %}
 
-Clear Creek Metro Park is without a doubt the most physically demanding and technically challenging location for trail running in Central Ohio. Although there are a few flat and easy sections, the majority of the trails here are hilly, steep, and often full of rocks and roots. The hills here have around 400 feet of elevation gain, which for Central Ohio is downright mountainous, and it is significantly more than other hilly locations such as Highbanks (add link). This is the closet trail to Columbus that is considered part of the Hocking Hills region. Although the rock formations are not anywhere near as dramatic as the more well know Hocking Hills parks, there are still many neat rocks along the trails, and the area definatley has a similar feel. It is also much less crowded. It sort of feels like a park that gets forgotten. You'll likley run in to very few people. Maybe a note about how this is about the furthest you can get where I would still call it central ohio (part of trail is in fairfield county) and that the rest of hocking hills feels a bit further.
+Clear Creek Metro Park is without a doubt the most physically demanding and technically challenging location for trail running in Central Ohio. Although there are a few flat and easy sections, the majority of the trails here hilly, steep, and often full of rocks and roots. The hills have around 400 feet of elevation gain, which for Central Ohio is downright mountainous.
+
+This is the closest park in Hocking Hills region to Columbus. Like much of Hocking Hills, it has numerous rock formations. While the rocks at Clear Creek are much less dramatic than those at the more well known Hocking Hills parks, this is more than made up for by the fact that the crowds here are non-existent. I probably ran into only 20 people when running here on a beautiful fall weekend day.
 
 {% include body-image.html src="/assets/clear-creek2-700.jpg" alt="A section of trail at Clear Creek Metro Park that contains a lot of rocks and roots." caption="The trails at Clear Creek are often steep, rocky, and full of roots." %}
 
-SOME MORE CONTENT HERE
+With the exception of the Creekside Meadows Trail, a scenic but flat trail that follows the alongside Clear Creek, the terrain of the other trails is primarily forested, hilly, singletrack. Most trails follow similar pattern of steeply ascending a hill, staying on a ridge for a while, and then steeply descending. Pay careful attention as the trails are often full of rocks and roots, which combined with the hilliness make it easy to fall. My only real complaint is that the trail flow would be much better if the hills were ascended and descended more gradually. Even the best trail runner will find sections that the need to walk.
 
 {% include body-image.html src="/assets/clear-creek3-700.jpg" alt="An easy but pleasant grassy section of the Chestnut Trail at Clear Creek Metro Park." caption="The eastern end of the Chestnut Trail contains one of the few easier sections at Clear Creek." %}
 
-LAST SECTION CONTENT HERE
+There are rocks throughout the park, but the best formations can be seen on the Hemlock and Fern trails. All trails in the park are worth exploring, but if you only have a short amount of time then these are the ones to try first. The next best are the Hemlock and Cemetery Ridge trails, which are similar to the Hemlock and Fern trails but with fewer rocks and a bit less singletrack as some of their ridge top sections utilize and unused dirt road.
+
 
 ---
 

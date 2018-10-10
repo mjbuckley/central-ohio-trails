@@ -9,7 +9,7 @@ mtb: no
 mileage: 12 miles
 ---
 
-{% include header-image.html src="/assets/clear-creek1-1000.jpg" alt="A trail at Clear Creek Metro Park that is passing a large rock formation." caption="There are many rock formations at Clear Creek, such as this section on the Fern Trail." %}
+{% include header-image.html src="/assets/clear-creek1-1000.jpg" alt="A trail at Clear Creek Metro Park that is passing a large rock formation." caption="There are many rock formations at Clear Creek, such as on this section of the Fern Trail." %}
 
 {% include at-a-glance.html %}
 
@@ -23,8 +23,7 @@ With the exception of the Creekside Meadows Trail, a scenic but flat trail that 
 
 {% include body-image.html src="/assets/clear-creek3-700.jpg" alt="An easy but pleasant grassy section of the Chestnut Trail at Clear Creek Metro Park." caption="The eastern end of the Chestnut Trail contains one of the few easier sections at Clear Creek." %}
 
-There are rocks throughout the park, but the best formations can be seen on the Hemlock and Fern trails. All trails in the park are worth exploring, but if you only have a short amount of time then these are the ones to try first. The next best are the Hemlock and Cemetery Ridge trails, which are similar to the Hemlock and Fern trails but with fewer rocks and a bit less singletrack as some of their ridge top sections utilize and unused dirt road.
-
+There are rocks formations throughout the park, but the best can be seen on the Hemlock and Fern trails. All trails in the park are worth exploring, but if you only have a short amount of time then these are the ones to try first. The next best are the Hemlock and Cemetery Ridge trails. These two are similar to the Hemlock and Fern trails, but they have fewer rock formations and not as much singletrack as some of their ridge top sections utilize an unused dirt road.
 
 ---
 

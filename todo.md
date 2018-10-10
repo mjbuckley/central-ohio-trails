@@ -1,11 +1,28 @@
 ## To Do
 
+- ***Trails To Review/Recheck:***
+  - Camp Chase Trail. Add links to review in Scioto Trail and Battelle Darby Creek reviews because the Camp Chase goes through both of them.
+  - Alum Creek mtb trail
+  - Alum creek trail running trail (might be called roots and rocks?)
+  - Is John Bryan and the other Yellow Springs stuff too far away to be considered Central Ohio? If ok the review them.
+  - AW Marion mtb trail?
+  - Right now I don't have a review of the Hellbranch Trail because it is too incomplete feeling, but I suspect it will continue to be improved. I last rode it in fall of 2018. Maybe check again in a year. Right ow I have a mention of it on the Heritage Trail review because it joins up with that trail. If I make a review be sure to link it to the Heritage Trail review and then remove the mini review I have there now.
+  - Dublin Trails: There seem to be a lot of trails in Dublin. Not sure if they are just a bunch of neighborhood trails or if they are connected. Look into this.
+  - Alum Creek Trail. Not the park but the Greenway trail.
+  - Blacklick Trail. Not the park but the Greenway trail.
+  - Three Creeks.
+  - Walnut Woods
+  - Glacier Ridge.
+  - Pickerington Ponds
+  - Rocky Fork doesn't have a lot now, but it looks like they have land and I bet they expand. Keep in mind for the future.
+  - Chestnut Ridge: There are some hiking trails in addition to the mtb trails. Not a lot so not worth a special trip, but maybe check them out some time when I'm mountain biking there.
+  - Slate Run
+  - Others?
 - Consider changing the breakpoint for the essential info section to be a bit wider. Many phones don't switch to the mobile view when horizontal and I'm not sure if I like how that looks.
 - Add higher quality images. Keep the same cropping, just use higher quality compression.
 - See about using Cloudflare as a way of using https on Github pages with my custom domain.
 - Maybe make the caption font color a touch darker (this color might be being used elsewhere too and it should be changed everywhere).
 - I now have Lato 300. I've used it in a few places, but I think a lot of places could improve by using it.
-- Add additional reviews and recheck my current reviews for any changes or additions.
 - Add a favicon.
 - Run through Google's mobile/page speed test to see if there's anything obvious I should fix that I'm missing.
 - Consider ways to improve the trail listing table, esp. for mobile. Also maybe add a simple (clickable?) map showing where the trails are located.

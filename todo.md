@@ -17,13 +17,20 @@
   - Rocky Fork doesn't have a lot now, but it looks like they have land and I bet they expand. Keep in mind for the future.
   - Chestnut Ridge: There are some hiking trails in addition to the mtb trails. Not a lot so not worth a special trip, but maybe check them out some time when I'm mountain biking there.
   - Slate Run
+  - Not sure how real the Ohio To Erie Trail is. Check this out.
   - Others?
 - Consider changing the breakpoint for the essential info section to be a bit wider. Many phones don't switch to the mobile view when horizontal and I'm not sure if I like how that looks.
 - Add higher quality images. Keep the same cropping, just use higher quality compression.
 - See about using Cloudflare as a way of using https on Github pages with my custom domain.
 - Maybe make the caption font color a touch darker (this color might be being used elsewhere too and it should be changed everywhere).
+- Add a note about how I've made responsive images work and how to use. Also that the site design assumes 16x9 proportions.
+- I'm not using footer in includes. Probably kept around as reference, but remove?
+- Improve site meta/consider having page specific meta.
+- Add picture on about?
 - I now have Lato 300. I've used it in a few places, but I think a lot of places could improve by using it.
 - Add a favicon.
+- Curious about the feed.xml.  It's for RSS syndication, but I'm not sure exactly how it's used/if it's already set up to work or if something needs to be done.  Not sure I even want it, but I'd like to understand it.
+- I have my homepage background image url as /assets/imagename.  This is fine.  However, for all of my other links I have site.baseurl prepended to the link.  That way, if my site is ever served from a baseurl (think domainname/blog instead of just domainname/), I can just change the baseurl variable to /blog instead of "" and then all of my links will still work.  But I can't figure out a good way to do that in a sass file (liquid templates don't work there).  This is the only backgound image, so it's not a big deal, but keep it in mind.
 - Run through Google's mobile/page speed test to see if there's anything obvious I should fix that I'm missing.
 - Consider ways to improve the trail listing table, esp. for mobile. Also maybe add a simple (clickable?) map showing where the trails are located.
 - Improve about page. Make styling nicer, maybe include and image.

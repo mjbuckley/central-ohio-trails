@@ -2,6 +2,7 @@
 
 - ***Trails To Review/Recheck:***
   - Camp Chase Trail. Add links to review in Scioto Trail and Battelle Darby Creek reviews because the Camp Chase goes through both of them.
+  - Chestnut Ridge. There are 3 new sections: Squatch, Fireball, and More Cowbell. I have seen parts of the More Cowbell (has lots of jumps and other things, called a flow trail), but not ridden it. I did do the Squatch. It is listed as a advanced, but it it basically like everything else, although it does at a decent amount of mileage. I have not done the Fireball. Be sure to ride the two sections I haven't and then add that info to the trail review.
   - Alum Creek mtb trail
   - Alum creek trail running trail (might be called roots and rocks?)
   - Is John Bryan and the other Yellow Springs stuff too far away to be considered Central Ohio? If ok the review them.
